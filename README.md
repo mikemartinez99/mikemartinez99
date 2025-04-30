@@ -4,6 +4,10 @@
 ⚡ **Fun fact:** Genomic data science by day, drummer by night!<br>
 📄 **My experience:** For more about me, [check out my resume](https://mikemartinez99.github.io/Resume/)<br>
 
+## Projects I Contributed to:
+- [GDSC RNASeq Pipeline](https://github.com/Dartmouth-Data-Analytics-Core/DAC-RNAseq-pipeline) - Preprocessing and analysis of bulk RNA-Seq
+- 
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Michael-martinez99) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mike.j.martinez99@gmail.com) 

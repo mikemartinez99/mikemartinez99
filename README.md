@@ -1,5 +1,5 @@
 # 👋 Hey, I'm Mike!
-📚 **My education:** M.S. in Microbial Genomics from University of Connecticut, B.S in Molecular Biology from University of Connecticut<br>
+📚 **My education:** M.S. in Microbial Genomics from University of Connecticut<br>
 🧬 **My interests:** Omics technologies, exploratory data analysis, pipeline development via Snakemake, and data visualization<br>
 ⚡ **Fun fact:** Genomic data science by day, drummer by night!<br>
 📄 **My experience:** For more about me, [check out my resume](https://mikemartinez99.github.io/Resume/)<br>

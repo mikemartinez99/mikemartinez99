@@ -1,7 +1,7 @@
 # 👋🏻 Hey, I'm Mike!
 📚 **My education:** M.S. in Microbial Genomics from University of Connecticut<br>
 🧬 **My interests:** Genomics, spatial-transcriptomics, pipeline development via Snakemake, and data visualization<br>
-✍🏻 **Currently working on:** Pipeline development for spatial-transcriptomics preprocessing (Visium HD and Xenium platform) <br>
+✍🏻 **Currently working on:** Snakemake workflow for tRNA-Sequencing and comprehensive analysis <br>
 ⚡ **Fun fact:** Genomic data science by day, drummer by night!<br>
 📄 **My experience:** For more about me, [check out my resume](https://mikemartinez99.github.io/Resume/)<br>
 

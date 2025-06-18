@@ -9,7 +9,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Michael-martinez99) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mike.j.martinez99@gmail.com) 
 
 ### ⚙️ Tools and Development
-<img src="https://raw.githubusercontent.com/mikemartinez99/RGenEDA/main/img/RGenEDA_HexLogo.png" width="250px" height="300px" /> <img src="https://raw.githubusercontent.com/mikemartinez99/ScoutR/main/img/SCoutR_HexLogo.png" width="250px" height="300px" /><img src="https://raw.githubusercontent.com/mikemartinez99/clover-seq/main/img/clover-seq-HexLogo.png" width="320px" height="300px" />
+<img src="https://raw.githubusercontent.com/mikemartinez99/RGenEDA/main/img/RGenEDA_HexLogo.png" width="250px" height="300px" /> <img src="https://raw.githubusercontent.com/mikemartinez99/ScoutR/main/img/SCoutR_HexLogo.png" width="250px" height="300px" /><img src="https://raw.githubusercontent.com/mikemartinez99/clover-seq/main/img/clover-seq-HexLogo.png" width="270px" height="300px" />
 
 
 ### 💻 Tech Stack:

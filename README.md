@@ -1,7 +1,7 @@
 # 👋🏻 Hey, I'm Mike!
 📚 **My education:** M.S. in Microbial Genomics from University of Connecticut<br>
 🧬 **My interests:** Genomics, spatial-transcriptomics, pipeline development via Snakemake, and data visualization<br>
-✍🏻 **Currently working on:** Package for single cell omics helper functions and plotting utilities <br>
+✍🏻 **Currently working on:** Package for exploratory data analysis for genomics<br>
 ⚡ **Fun fact:** Genomic data science by day, drummer by night!<br>
 📄 **My experience:** For more about me, [check out my portfolio](https://mikemartinez99.github.io/Personal_Website/)<br>
 

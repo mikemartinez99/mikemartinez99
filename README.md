@@ -16,13 +16,13 @@
 
 ---
 
-### ⚙️ Projects & Tools
+### ⚙️ Tools and Development
 
-| Project | Description |  
+| Tool | Description |  
 |----------|--------------|  
-| [![Clover-Seq](https://img.shields.io/badge/Clover--Seq-00A36C?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mikemartinez99/clover-seq) <img src="https://github.com/mikemartinez99/clover-Seq/blob/main/img/CloverSeq_Logo.png" height="60"/> | Comprehensive analysis of tRNAs in NGS. |
-| [![RGenEDA](https://img.shields.io/badge/RGenEDA-6C63FF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mikemartinez99/RGenEDA) <img src="https://github.com/mikemartinez99/RGenEDA/blob/main/img/RGenEDA_HexLogo.png" height="60"/> | R package for exploratory data analysis in genomics. |
-| [![SCoutR](https://img.shields.io/badge/SCoutR-333333?style=for-the-badge&logo=snakemake&logoColor=white)](https://github.com/Dartmouth-Data-Analytics-Core/GDSC-MGX-Pipeline) <img src="https://github.com/mikemartinez99/scoutR/blob/main/img/SCoutR_HexLogo.png" height="60"/> | R package to streamline single-cell omics preprocessing. |
+| [![Clover-Seq](https://img.shields.io/badge/Clover--Seq-333333?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mikemartinez99/clover-seq)  | Comprehensive analysis of tRNAs in NGS. |
+| [![RGenEDA](https://img.shields.io/badge/RGenEDA-333333?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mikemartinez99/RGenEDA) | R package for exploratory data analysis in genomics. |
+| [![SCoutR](https://img.shields.io/badge/SCoutR-333333?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mikemartinez99/scoutR)  | R package to streamline single-cell omics preprocessing. |
 
 ---
 

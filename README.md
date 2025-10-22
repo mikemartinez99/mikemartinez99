@@ -18,12 +18,28 @@
 
 ### ⚙️ Tools and Development
 
-| Tool | Description |  
-|----------|--------------|  
-| [![Clover-Seq](https://img.shields.io/badge/Clover--Seq-333333?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mikemartinez99/clover-seq)  | Comprehensive analysis of tRNAs in NGS. |
-| [![RGenEDA](https://img.shields.io/badge/RGenEDA-333333?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mikemartinez99/RGenEDA) | R package for exploratory data analysis in genomics. |
-| [![SCoutR](https://img.shields.io/badge/SCoutR-333333?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mikemartinez99/scoutR)  | R package to streamline single-cell omics preprocessing. |
-
+<table>
+  <tr>
+    <td width="33%" align="center">
+      <a href="https://github.com/mikemartinez99/clover-seq">
+        <img src="https://img.shields.io/badge/Clover--Seq-333333?style=for-the-badge&logo=github&logoColor=white" alt="Clover-Seq Badge"/><br>
+        <sub>Snakemake workflow for comprehensive analysis of tRNAs and other small RNAs from NGS</sub>
+      </a>
+    </td>
+    <td width="33%" align="center">
+      <a href="https://github.com/mikemartinez99/RGenEDA">
+        <img src="https://img.shields.io/badge/RGenEDA-333333?style=for-the-badge&logo=github&logoColor=white" alt="RGenEDA Badge"/><br>
+        <sub>Unified and reproducible frameworks for genomic exploratory data analysis in R</sub>
+      </a>
+    </td>
+    <td width="33%" align="center">
+      <a href="https://github.com/mikemartinez99/scoutR">
+        <img src="https://img.shields.io/badge/SCoutR-333333?style=for-the-badge&logo=github&logoColor=white" alt="SCoutR Badge"/><br>
+        <sub>Streamlined utilities for preprocessing single-cell omics in Seurat</sub>
+      </a>
+    </td>
+  </tr>
+</table>
 ---
 
 ### 💻 Tech Stack

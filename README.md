@@ -1,10 +1,12 @@
 # 👋🏻 Hey, I'm Mike!
 
+### 📄 [Check out my portfolio →](https://mikemartinez99.github.io/Personal_Website/)  
+
 📚 **Education:** M.S. in Microbial Genomics — University of Connecticut  
 🧬 **Interests:** Genomics, spatial-transcriptomics, Snakemake pipeline development, and data visualization  
 ✍🏻 **Currently working on:** An R package for exploratory genomics data analysis  
 ⚡ **Fun fact:** Genomic data science by day, drummer by night!  
-📄 **More about me:** [Check out my portfolio →](https://mikemartinez99.github.io/Personal_Website/)  
+
 
 ---
 

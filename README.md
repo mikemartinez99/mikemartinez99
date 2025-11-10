@@ -1,72 +1,64 @@
-<h1 align="center">Hi, I'm Mike Martinez 👋</h1>
+<h1 align="center">👋 Hi, I'm Mike Martinez</h1>
 
 <p align="center">
-  <em>Bioinformatician | Data Scientist | Storyteller with Code</em>
-  
-  ### 📄 [Check out my portfolio →](https://mikemartinez99.github.io/Personal_Website/)  
+  <em>Bioinformatician • Data Scientist • Storyteller with Code</em>  
+  <br>
+  <a href="https://mikemartinez99.github.io/Personal_Website/">
+    📄 View My Portfolio
+  </a>
 </p>
 
-### 🌐 Socials
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/Michael-martinez99)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mike.j.martinez99@gmail.com)
+<p align="center">
+  <a href="https://linkedin.com/in/Michael-martinez99">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  &nbsp;
+  <a href="mailto:mike.j.martinez99@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+</p>
 
 ---
 
+### 🧬 About Me
 
-
-### About Me
-- 🧬 I work at the *Dartmouth Genomic Data Science Core*, supporting researchers across the Dartmouth Community and beyond.
-
-- 🔬 Experienced across *bulk RNA-seq*, *single-cell analysis (RNA/ATAC)*, *metagenomics and metataxonomics* and *Snakemake pipeline development*.
- 
-- 💻 Passionate about *reproducible pipelines*, *data visualization*, and *genomic data science*.
-  
-- 🧩 Currently working on *R package for genomic exploratory data analysis*.  
-
+- I work at the **Dartmouth Genomic Data Science Core**, supporting researchers across Dartmouth and beyond.  
+- Experienced in **bulk RNA-seq**, **single-cell (RNA/ATAC)**, **metagenomics**, and **Snakemake pipeline development**.  
+- Passionate about **reproducible pipelines**, **data visualization**, and **genomic data storytelling**.  
+- Currently developing **RGenEDA**, an R package for reproducible genomic exploratory data analysis.  
 
 ---
 
-### ⚙️ Tools and Development
+### ⚙️ Featured Projects
 
-<table>
-  <tr>
-    <td width="33%" align="center">
-      <a href="https://github.com/mikemartinez99/clover-seq">
-        <img src="https://img.shields.io/badge/Clover--Seq-333333?style=for-the-badge&logo=github&logoColor=white" alt="Clover-Seq Badge"/><br>
-        <sub>Snakemake workflow for comprehensive analysis of tRNAs and other small RNAs from NGS</sub>
-      </a>
-    </td>
-    <td width="33%" align="center">
-      <a href="https://github.com/mikemartinez99/RGenEDA">
-        <img src="https://img.shields.io/badge/RGenEDA-333333?style=for-the-badge&logo=github&logoColor=white" alt="RGenEDA Badge"/><br>
-        <sub>Unified and reproducible frameworks for genomic exploratory data analysis in R</sub>
-      </a>
-    </td>
-    <td width="33%" align="center">
-      <a href="https://github.com/mikemartinez99/scoutR">
-        <img src="https://img.shields.io/badge/SCoutR-333333?style=for-the-badge&logo=github&logoColor=white" alt="SCoutR Badge"/><br>
-        <sub>Streamlined utilities for preprocessing single-cell omics in Seurat</sub>
-      </a>
-    </td>
-  </tr>
-</table>
+| Project | Description |
+|----------|-------------|
+| [**Clover-Seq**](https://github.com/mikemartinez99/clover-seq) | Snakemake workflow for comprehensive tRNA and small RNA analysis from NGS data |
+| [**RGenEDA**](https://github.com/mikemartinez99/RGenEDA) | Unified and reproducible framework for genomic exploratory data analysis in R |
+| [**SCoutR**](https://github.com/mikemartinez99/scoutR) | Streamlined utilities for preprocessing single-cell omics in Seurat |
 
 ---
 
 ### 💻 Tech Stack
 
-![Snakemake](https://img.shields.io/badge/Snakemake-red?style=for-the-badge&logo=snakemake&logoColor=white)
-![R](https://img.shields.io/badge/R-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
+<p align="center">
+  <img src="https://img.shields.io/badge/Snakemake-red?style=for-the-badge&logo=snakemake&logoColor=white"/>
+  <img src="https://img.shields.io/badge/R-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
+  <img src="https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white"/>
+</p>
 
 ---
 
 ### 📊 GitHub Stats
 
-![](https://nirzak-streak-stats.vercel.app/?user=mikemartinez99&theme=gruvbox&hide_border=false)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mikemartinez99&layout=compact&theme=gruvbox)  
-[![](https://visitcount.itsvg.in/api?id=mikemartinez99&icon=0&color=0)](https://visitcount.itsvg.in)
+<p align="center">
+  <img src="https://nirzak-streak-stats.vercel.app/?user=mikemartinez99&theme=gruvbox&hide_border=false" alt="GitHub Streak"/>
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mikemartinez99&layout=compact&theme=gruvbox" alt="Top Languages"/>
+  <br>
+  <img src="https://visitcount.itsvg.in/api?id=mikemartinez99&icon=0&color=0" alt="Profile Views"/>
+</p>
 
 ---
 

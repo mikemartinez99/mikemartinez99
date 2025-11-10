@@ -1,18 +1,28 @@
-# 👋🏻 Hey, I'm Mike!
+<h1 align="center">Hi, I'm Mike Martinez 👋</h1>
 
-### 📄 [Check out my portfolio →](https://mikemartinez99.github.io/Personal_Website/)  
-
-📚 **Education:** M.S. in Microbial Genomics — University of Connecticut  
-🧬 **Interests:** Genomics, spatial-transcriptomics, Snakemake pipeline development, and data visualization  
-✍🏻 **Currently working on:** An R package for exploratory genomics data analysis  
-⚡ **Fun fact:** Genomic data science by day, drummer by night!  
-
-
----
+<p align="center">
+  <em>Bioinformatician | Data Scientist | Storyteller with Code</em>
+  
+  ### 📄 [Check out my portfolio →](https://mikemartinez99.github.io/Personal_Website/)  
+</p>
 
 ### 🌐 Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/Michael-martinez99)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mike.j.martinez99@gmail.com)
+
+---
+
+
+
+### About Me
+- 🧬 I work at the *Dartmouth Genomic Data Science Core*, supporting researchers across the Dartmouth Community and beyond.
+
+- 🔬 Experienced across *bulk RNA-seq*, *single-cell analysis (RNA/ATAC)*, *metagenomics and metataxonomics* and *Snakemake pipeline development*.
+ 
+- 💻 Passionate about *reproducible pipelines*, *data visualization*, and *genomic data science*.
+  
+- 🧩 Currently working on *R package for genomic exploratory data analysis*.  
+
 
 ---
 
@@ -40,6 +50,7 @@
     </td>
   </tr>
 </table>
+
 ---
 
 ### 💻 Tech Stack

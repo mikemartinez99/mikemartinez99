@@ -54,7 +54,7 @@
 ### 📊 GitHub Stats
 
 
-  ![GitHub stats](https://github-readme-stats.vercel.app/api?username=mikemartinez99&show_icons=true&theme=gruvbox) 
+  ![GitHub stats](https://github-readme-stats.vercel.app/api?username=mikemartinez99&show_icons=true&theme=gruvbox) ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mikemartinez99&layout=compact&theme=gruvbox)
 
 
 ---

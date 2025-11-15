@@ -29,13 +29,14 @@
 
 ---
 
-### ⚙️ Featured Projects
+### ⚙️ Tools and Pipelines
 
 | Project | Description |
 |----------|-------------|
-| [**Clover-Seq**](https://github.com/mikemartinez99/clover-seq) | Snakemake workflow for comprehensive tRNA and small RNA analysis from NGS data |
 | [**RGenEDA**](https://github.com/mikemartinez99/RGenEDA) | Unified and reproducible framework for genomic exploratory data analysis in R |
+| [**Clover-Seq**](https://github.com/mikemartinez99/clover-seq) | Snakemake workflow for comprehensive tRNA and small RNA analysis from NGS data |
 | [**SCoutR**](https://github.com/mikemartinez99/scoutR) | Streamlined utilities for preprocessing single-cell omics in Seurat |
+| [**WES Pipeline**](https://github.com/mikemartinez99/WES_Pipeline) | Pipeline for processing whole exome sequencing data |
 
 ---
 

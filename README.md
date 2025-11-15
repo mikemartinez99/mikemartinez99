@@ -35,10 +35,10 @@
 
 | Project | Description |
 |----------|-------------|
-| [**RGenEDA**](https://github.com/mikemartinez99/RGenEDA) | Unified and reproducible framework for genomic exploratory data analysis in R |
+| [**RGenEDA**](https://github.com/mikemartinez99/RGenEDA) | R package for streamlined, unified and reproducible frameworks for genomic exploratory data analysis in R |
 | [**Clover-Seq**](https://github.com/mikemartinez99/clover-seq) | Snakemake workflow for comprehensive tRNA and small RNA analysis from NGS data |
-| [**SCoutR**](https://github.com/mikemartinez99/scoutR) | Streamlined utilities for preprocessing single-cell omics in Seurat |
-| [**WES Pipeline**](https://github.com/mikemartinez99/WES_Pipeline) | Pipeline for processing whole exome sequencing data |
+| [**SCoutR**](https://github.com/mikemartinez99/scoutR) | R package for preprocessing / plotting utilities for single-cell omics in Seurat |
+| [**WES Pipeline**](https://github.com/mikemartinez99/WES_Pipeline) | Snakemake workflow for processing whole exome sequencing data |
 
 ---
 

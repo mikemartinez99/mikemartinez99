@@ -4,8 +4,10 @@
   <em>Bioinformatician • Data Scientist • Storyteller with Code</em>  
   <br>
   <a href="https://mikemartinez99.github.io/Personal_Website/">
+  <span style="font-size: 22px; font-weight: bold;">
     📄 View My Portfolio
-  </a>
+  </span>
+</a>
 </p>
 
 <p align="center">
@@ -22,10 +24,10 @@
 
 ### 🧬 About Me
 
-- I work at the **Dartmouth Genomic Data Science Core**, supporting researchers across Dartmouth and beyond.  
+- I work at the **Dartmouth Genomic Data Science Core**, supporting researchers across Dartmouth and beyond.
+- Currently developing **RGenEDA**, an R package for reproducible genomic exploratory data analysis.  
 - Experienced in **bulk RNA-seq**, **single-cell (RNA/ATAC)**, **metagenomics**, and **Snakemake pipeline development**.  
 - Passionate about **reproducible pipelines**, **data visualization**, and **genomic data storytelling**.  
-- Currently developing **RGenEDA**, an R package for reproducible genomic exploratory data analysis.  
 
 ---
 

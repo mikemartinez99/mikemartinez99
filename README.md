@@ -59,7 +59,5 @@
 
 ---
 
-
-
-
-> *Empowering biological discovery through reproducible computational workflows.*
+> *Empowering biological discovery through reproducible computational workflows.*  
+> ![Profile Views](https://komarev.com/ghpvc/?username=mikemartinez99&color=0e75b6&style=flat)

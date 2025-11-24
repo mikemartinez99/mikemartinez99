@@ -29,7 +29,7 @@
 
 ---
 
-### ⚙️ Projects & Pipelines
+### ⚙️ Tool Development & Pipelines
 
 | Project | Description |
 |----------|-------------|

@@ -7,6 +7,11 @@
      style="font-size:22px; font-weight:bold; color:#ffffff; background-color:#FF6F61; padding:8px 16px; border-radius:8px; text-decoration:none;">
     📄 View My Portfolio
   </a>
+  <br><br>
+  <a href="https://mikemartinez99.github.io/"
+     style="font-size:22px; font-weight:bold; color:#ffffff; background-color:#FF6F61; padding:8px 16px; border-radius:8px; text-decoration:none;">
+    ✍🏻 The Compute and Conquer Blog
+  </a>
 </p>
 
 <p align="center" style="margin-top:12px;">

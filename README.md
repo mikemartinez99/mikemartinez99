@@ -1,4 +1,12 @@
-<h1 align="center">👋 Hi, I'm <span style="color:#FF6F61;">Mike Martinez</span></h1>
+
+</h3 align="center">
+
+<!-- Typing SVG by DenverCoder1 -->
+<p align="center">
+  <a href="https://github.com/mikemartinez99/readme-typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi,+I'm+Mike+Martinez+👋;Bioinformatics+Scientist&font=Fira+Code&size=40&duration=4000&pause=1000&width=800&height=150" alt="Typing SVG">
+  </a>
+</p>
 
 <p align="center">
   <em style="font-size:18px;">Bioinformatician • Data Scientist • Storyteller with Code</em>

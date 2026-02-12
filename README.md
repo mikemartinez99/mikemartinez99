@@ -71,6 +71,6 @@
 
 #### Github Stats
 
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=mikemartinez99&layout=compact&theme=tokyonight)
+![Top Languages](https://github.com/mikemartinez99/mikemartinez99/blob/output/dist/top_languages.svg)
 
 > *Empowering biological discovery through reproducible computational workflows.*  

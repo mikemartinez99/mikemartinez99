@@ -69,8 +69,4 @@
 
 ---
 
-#### Github Stats
-
-
-
 > *Empowering biological discovery through reproducible computational workflows.*  

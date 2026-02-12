@@ -1,30 +1,28 @@
-<!-- Typing SVG by DenverCoder1 -->
+<!-- Typing SVG -->
 <p align="center">
-  <a href="https://github.com/mikemartinez99/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi,+I'm+Mike+Martinez+👋;Bioinformatics+happens+here+🧬&font=K2D+Code&size=48&duration=3000&pause=900&width=900&height=180" alt="Typing SVG">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi,+I'm+Mike+Martinez+👋;Bioinformatics+happens+here.+🧬&font=K2D&size=44&duration=2000&pause=800&width=850&height=120" />
+</p>
+
+<p align="center" style="font-size:20px; margin-top:-5px;">
+  Bioinformatician • Data Scientist • Storytelling Through Code
+</p>
+
+<p align="center" style="margin:18px 0;">
+  <a href="https://mikemartinez99.github.io/about/" target="_blank"
+     style="text-decoration:none; font-size:18px;">
+     Visit My Website & Blog
   </a>
 </p>
 
-<p align="center" style="font-size:35px; font-style:italic; margin-top:5px;">
-  Bioinformatician • Data Scientist • Storyteller with Code
-</p>
-
-<p align="center" style="margin:20px 0;">
-  <a href="https://mikemartinez99.github.io/about/" 
-     style="font-size:22px; font-weight:bold; color:#ffffff; background-color:#FF6F61; padding:10px 20px; border-radius:12px; text-decoration:none;">
-    📄 Visit my Website & Blog
+<p align="center" style="margin-top:15px;">
+  <a href="https://linkedin.com/in/Michael-martinez99" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="42" />
   </a>
-</p>
-
-<p align="center" style="margin-top:10px;">
-  <a href="https://linkedin.com/in/Michael-martinez99" style="margin-right:8px;">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
+  &nbsp;&nbsp;&nbsp;
   <a href="mailto:mike.j.martinez99@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="42" />
   </a>
 </p>
-<hr>
 
 ### 🧬 About Me
 

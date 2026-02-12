@@ -63,12 +63,14 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" width="40" height="40"/>
 <img src="https://avatars.githubusercontent.com/u/7388996?s=280&v=4" alt="Jupyter" width="40" height="40"/>
 
-
-
 **Version Control:**  
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>
 
 ---
+
+#### Github Stats
+
+![Snake animation](https://github.com/mikemartinez99/mikemartinez99/blob/output/github-contribution-grid-snake.svg)
 
 > *Empowering biological discovery through reproducible computational workflows.*  

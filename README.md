@@ -5,7 +5,7 @@
   </a>
 </p>
 
-<p align="center" style="font-size:20px; font-style:italic; margin-top:10px;">
+<p align="center" style="font-size:35px; font-style:italic; margin-top:5px;">
   Bioinformatician • Data Scientist • Storyteller with Code
 </p>
 

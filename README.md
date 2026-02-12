@@ -1,33 +1,30 @@
-
-</h3 align="center">
-
 <!-- Typing SVG by DenverCoder1 -->
 <p align="center">
   <a href="https://github.com/mikemartinez99/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi,+I'm+Mike+Martinez+👋;Bioinformatics+Scientist&font=Fira+Code&size=40&duration=4000&pause=1000&width=800&height=150" alt="Typing SVG">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi,+I'm+Mike+Martinez+👋;Bioinformatics+happens+here+🧬&font=K2D+Code&size=48&duration=3000&pause=900&width=900&height=180" alt="Typing SVG">
   </a>
 </p>
 
-<p align="center">
-  <em style="font-size:18px;">Bioinformatician • Data Scientist • Storyteller with Code</em>
-  <br><br>
+<p align="center" style="font-size:20px; font-style:italic; margin-top:10px;">
+  Bioinformatician • Data Scientist • Storyteller with Code
+</p>
+
+<p align="center" style="margin:20px 0;">
   <a href="https://mikemartinez99.github.io/about/" 
-     style="font-size:22px; font-weight:bold; color:#ffffff; background-color:#FF6F61; padding:8px 16px; border-radius:8px; text-decoration:none;">
-    📄 Visit my Website and Blog
+     style="font-size:22px; font-weight:bold; color:#ffffff; background-color:#FF6F61; padding:10px 20px; border-radius:12px; text-decoration:none;">
+    📄 Visit my Website & Blog
   </a>
-  <br><br>
 </p>
 
-<p align="center" style="margin-top:12px;">
-  <a href="https://linkedin.com/in/Michael-martinez99">
+<p align="center" style="margin-top:10px;">
+  <a href="https://linkedin.com/in/Michael-martinez99" style="margin-right:8px;">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="mailto:mike.j.martinez99@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </p>
-
----
+<hr>
 
 ### 🧬 About Me
 
@@ -59,19 +56,6 @@
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Conda](https://img.shields.io/badge/Conda-44A833?style=for-the-badge&logo=anaconda&logoColor=white)
 ![Pixi](https://img.shields.io/badge/Pixi-FF6F61?style=for-the-badge&logoColor=white)
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <a href="https://github.com/mikemartinez99/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=mikemartinez99&show_icons=true&theme=gruvbox&rank_icon=github&hide_border=false&border_color=000000" alt="GitHub Stats" />
-  </a>
-  <a href="https://github.com/mikemartinez99/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mikemartinez99&layout=compact&theme=gruvbox&hide_border=false&border_color=000000" alt="Top Languages" />
-  </a>
-</p>
 
 ---
 

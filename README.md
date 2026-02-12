@@ -47,20 +47,27 @@
 
 #### 💻 Tech Stack
 
-
 **Languages:**  
-![Snakemake](https://img.shields.io/badge/Snakemake-43AA8B?style=for-the-badge&logo=snakemake&logoColor=white)
-![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Bash](https://img.shields.io/badge/bash-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" alt="R" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/snakemake/snakemake/main/docs/logo-snake.svg" alt="Snakemake" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="Bash" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" width="40" height="40" alt="Markdown"/>
+<img src="https://avatars.githubusercontent.com/u/6698688?s=280&v=4" alt="Nextflow" width="40" height="40"/>
 
-**Environment Management**  
-![Conda](https://img.shields.io/badge/Conda-44A833?style=for-the-badge&logo=anaconda&logoColor=white)
-![Pixi](https://img.shields.io/badge/Pixi-FF6F61?style=for-the-badge&logoColor=white)
+**Environments, IDEs, and Ecosystems:**  
+<img src="https://pixi.prefix.dev/v0.47.0/assets/pixi.png" alt="Pixi" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" alt="Conda" width="40" height="40"/>
+<img src="https://www.bioconductor.org/images/icons/BioconductorSticker1.png" alt="Bioconductor" width="40" height="40"/>
+<img src="https://scverse.org/img/logo/scverse_symbol.png" alt="SCVerse" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" width="40" height="40"/>
+<img src="https://avatars.githubusercontent.com/u/7388996?s=280&v=4" alt="Jupyter" width="40" height="40"/>
 
-**Version Control**  
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+
+**Version Control:**  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>
 
 ---
 

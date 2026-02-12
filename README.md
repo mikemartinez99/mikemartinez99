@@ -67,4 +67,9 @@
 
 ---
 
+<p align="center">
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=mikemartinez99&show_icons=true&hide_border=true" height="165"/>
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=mikemartinez99&layout=compact&hide_border=true" height="165"/>
+</p>
+
 > *Empowering biological discovery through reproducible computational workflows.*  

@@ -71,6 +71,6 @@
 
 #### Github Stats
 
-![Snake animation](https://github.com/mikemartinez99/mikemartinez99/blob/output/github-contribution-grid-snake.svg)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mikemartinez99&layout=compact&theme=tokyonight)
 
 > *Empowering biological discovery through reproducible computational workflows.*  

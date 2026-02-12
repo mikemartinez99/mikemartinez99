@@ -71,6 +71,6 @@
 
 #### Github Stats
 
-![Top Languages](https://github.com/mikemartinez99/mikemartinez99/blob/output/dist/top_languages.svg)
+
 
 > *Empowering biological discovery through reproducible computational workflows.*  

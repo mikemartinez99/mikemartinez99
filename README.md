@@ -4,7 +4,7 @@
 </p>
 
 <p align="center" style="font-size:20px; margin-top:-5px;">
-  Bioinformatician • Data Scientist • Storytelling Through Code
+  Empowering biological discovery through reproducible computational workflows 
 </p>
 
 <p align="center" style="margin:18px 0;">
@@ -72,4 +72,4 @@
   <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=mikemartinez99&layout=compact&hide_border=true" height="165"/>
 </p>
 
-> *Empowering biological discovery through reproducible computational workflows.*  
+

@@ -1,0 +1,37 @@
+name: Generate Top Languages SVG
+
+on:
+  schedule:
+    - cron: "0 0 * * *"  # every day at midnight UTC
+  workflow_dispatch:
+
+jobs:
+  generate_svg:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v3
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: "3.11"
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install matplotlib requests
+
+      - name: Generate Top Languages SVG
+        env:
+          GITHUB_USER: mikemartinez99
+        run: |
+          mkdir -p dist
+          python .github/scripts/generate_top_languages.py
+
+      - name: Commit SVG
+        uses: stefanzweifel/git-auto-commit-action@v4
+        with:
+          commit_message: "Update Top Languages SVG"
+          branch: output
+          file_pattern: "dist/top_languages.svg"

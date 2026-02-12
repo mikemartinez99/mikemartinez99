@@ -67,6 +67,8 @@
 
 ---
 
-![GitHub Stats](https://gh-stats.vercel.app/api?username=mikemartinez99&show_icons=true&theme=radical)
+![Stats](./profile/stats.svg)
+![Top Languages](./profile/top-langs.svg)
+
 
 

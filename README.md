@@ -38,6 +38,7 @@
 | Project | Description |
 |----------|-------------|
 | [**RGenEDA**](https://github.com/mikemartinez99/RGenEDA) | R package for streamlined, unified, and reproducible frameworks for omics exploratory data analysis |
+| [**miRNA and IsomiR Pipeline**](https://github.com/Dartmouth-Data-Analytics-Core/GDSC-miRNAseq-analysis-pipeline) | Snakemake workflow for miRNA and isomiR analysis |
 | [**Clover-Seq**](https://github.com/mikemartinez99/clover-seq) | Snakemake workflow for tRNA and small RNA NGS analysis |
 | [**WES Pipeline**](https://github.com/mikemartinez99/WES_Pipeline) | Snakemake workflow for whole-exome sequencing processing and analysis |
 

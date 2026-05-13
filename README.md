@@ -3,26 +3,10 @@
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi,+I'm+Mike+Martinez+👋;Bioinformatics+happens+here.+🧬&font=K2D&size=44&duration=2000&pause=800&width=850&height=120" />
 </p>
 
-<p align="center" style="font-size:20px; margin-top:-5px;">
-  Empowering biological discovery through reproducible computational workflows 
-</p>
+### [Click here to visit my Website / Blog](https://mikemartinez99.github.io/)
 
-<p align="center" style="margin:18px 0;">
-  <a href="https://mikemartinez99.github.io/" target="_blank"
-     style="text-decoration:none; font-size:18px;">
-     Visit My Website & Blog
-  </a>
-</p>
-
-<p align="center" style="margin-top:15px;">
-  <a href="https://linkedin.com/in/Michael-martinez99" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="42" />
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="mailto:mike.j.martinez99@gmail.com">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="42" />
-  </a>
-</p>
+[![email](https://img.shields.io/badge/email-mike.j.martinez99%40gmail.com-%23a6bddb)](mike.j.martinez99@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Michael%20Martinez-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/michael-martinez99/)
 
 ### 🧬 About Me
 

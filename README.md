@@ -8,7 +8,7 @@
 </p>
 
 <p align="center" style="margin:18px 0;">
-  <a href="https://mikemartinez99.github.io/about/" target="_blank"
+  <a href="https://mikemartinez99.github.io/" target="_blank"
      style="text-decoration:none; font-size:18px;">
      Visit My Website & Blog
   </a>

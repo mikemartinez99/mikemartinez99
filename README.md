@@ -54,6 +54,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" width="40" height="40" alt="Markdown"/>
 <img src="https://avatars.githubusercontent.com/u/6698688?s=280&v=4" alt="Nextflow" width="40" height="40"/>
+<img src="https://www.rust-lang.org/logos/rust-logo-512x512.png" alt="Rust" width="40" height="40"/>
 
 **Environments, IDEs, and Ecosystems:**  
 <img src="https://pixi.prefix.dev/v0.47.0/assets/pixi.png" alt="Pixi" width="40" height="40"/>

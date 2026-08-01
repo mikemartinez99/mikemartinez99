@@ -11,7 +11,7 @@
 ### 🧬 About Me
 
 - Research scientist at the **Dartmouth Genomic Data Science Core**, supporting biomedical researchers across Dartmouth and beyond.  
-- Currently developing **RGenEDA**, an R package for reproducible genomic exploratory data analysis.  
+- Currently developing an R package for single cell preprocessing automation (stay tuned)  
 - Experienced in **bulk RNA-seq**, **single-cell (RNA/ATAC)**, **metagenomics**, and **Snakemake pipeline development**.  
 - Passionate about **reproducible pipelines**, **data visualization**, and **genomics data**.
 - On a side-quest to learn **Rust**!

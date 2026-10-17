@@ -12,8 +12,8 @@
 
 - Research scientist at the **Dartmouth Genomic Data Science Core**, supporting biomedical researchers across Dartmouth and beyond.  
 - Currently developing an R package, **scoranet**, for single cell cluster-specific ORA networks
-- Experienced in **bulk RNA-seq**, **single-cell (RNA/ATAC)**, **metagenomics**, and **Snakemake pipeline development**.  
-- Passionate about **reproducible pipelines**, **data visualization**, and **genomics data**.
+- Experienced in **bulk RNA-seq**, **single-cell (RNA/ATAC)**, **metagenomics**, and **Snakemake pipeline development** and **R package development**.  
+- Passionate about **reproducible pipelines and tools**, **data visualization**, and **genomics data**.
 - On a side-quest to learn **Rust**!
 
 ---
@@ -26,7 +26,7 @@
 | [**scoranet**](https://github.com/mikemartinez99/scoranet) | R package for cluster-specific ORA network analysis |
 | [**miRNA and IsomiR Pipeline**](https://github.com/Dartmouth-Data-Analytics-Core/GDSC-miRNAseq-analysis-pipeline) | Snakemake workflow for miRNA and isomiR analysis |
 | [**Clover-Seq**](https://github.com/Dartmouth-Data-Analytics-Core/GDSC-clover-Seq/tree/main) | Snakemake workflow for tRNA and small RNA NGS analysis |
-| [**WES Pipeline**](https://github.com/mikemartinez99/WES_Pipeline) | Snakemake workflow for whole-exome sequencing processing and analysis |
+| [**MGX Pipeline**](https://github.com/Dartmouth-Data-Analytics-Core/GDSC-Biobakery-MGX-Pipeline) | Snakemake workflow for metagenomic preprocessing and analysis |
 | [**Rust Learning Journey**](https://github.com/mikemartinez99/Rust_Learning) | My side-quest of learning Rust |
 
 ---

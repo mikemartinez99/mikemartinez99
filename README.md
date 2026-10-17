@@ -23,7 +23,7 @@
 | Project | Description |
 |----------|-------------|
 | [**RGenEDA**](https://github.com/mikemartinez99/RGenEDA) | R package for streamlined, unified, and reproducible frameworks for omics exploratory data analysis |
-| [**scoranet**](https://github.com/mikemartinez99/scoranet) | R package for cluster-specific ORA network analysis |
+| [**scoranet**](https://github.com/mikemartinez99/scoranet) | R package for single-cell over-representation analysis networks |
 | [**miRNA and IsomiR Pipeline**](https://github.com/Dartmouth-Data-Analytics-Core/GDSC-miRNAseq-analysis-pipeline) | Snakemake workflow for miRNA and isomiR analysis |
 | [**Clover-Seq**](https://github.com/Dartmouth-Data-Analytics-Core/GDSC-clover-Seq/tree/main) | Snakemake workflow for tRNA and small RNA NGS analysis |
 | [**MGX Pipeline**](https://github.com/Dartmouth-Data-Analytics-Core/GDSC-Biobakery-MGX-Pipeline) | Snakemake workflow for metagenomic preprocessing and analysis |

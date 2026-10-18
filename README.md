@@ -27,7 +27,7 @@
 | [**miRNA and IsomiR Pipeline**](https://github.com/Dartmouth-Data-Analytics-Core/GDSC-miRNAseq-analysis-pipeline) | Snakemake workflow for miRNA and isomiR analysis |
 | [**Clover-Seq**](https://github.com/Dartmouth-Data-Analytics-Core/GDSC-clover-Seq/tree/main) | Snakemake workflow for tRNA and small RNA NGS analysis |
 | [**MGX Pipeline**](https://github.com/Dartmouth-Data-Analytics-Core/GDSC-Biobakery-MGX-Pipeline) | Snakemake workflow for metagenomic preprocessing and analysis |
-| [**Rust Learning Journey**](https://github.com/mikemartinez99/Rust_Learning) | My side-quest of learning Rust |
+| [**hisstop**](https://github.com/mikemartinez99/hisstop) | htop-like live console viewer for Snakemake DAGs on slurm HPCs |
 
 ---
 

@@ -6,24 +6,17 @@
 [![email](https://img.shields.io/badge/email-mike.j.martinez99%40gmail.com-%23a6bddb)](mailto:mike.j.martinez99@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Michael%20Martinez-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/michael-martinez99/)
 
-### [⬇️ Click here to visit my Website / Blog](https://mikemartinez99.github.io/)
-
-<p align="left">
-  <a href="https://mikemartinez99.github.io/">
-    <img src="profile/compute-and-conquer-logo.svg" alt="Compute and Conquer" width="260"/>
-  </a>
-</p>
-
-
 ### 🧬 About Me
 
+<a href="https://mikemartinez99.github.io/"><img src="profile/compute-and-conquer-logo.svg" alt="Compute and Conquer: visit my website and blog" width="220" align="right"/></a>
+
+#### Check out my blog / portfolio, **[Compute and Conquer](https://mikemartinez99.github.io/)** by clicking the icon to the right!
+
 - Research scientist at the **Dartmouth Genomic Data Science Core**, supporting biomedical researchers across Dartmouth and beyond.  
-- Currently developing an R package, **scoranet**, for single cell cluster-specific ORA networks
-- Experienced in **bulk RNA-seq**, **single-cell (RNA/ATAC)**, **metagenomics**, **Snakemake pipeline development**, and **R package development**.  
+- R package developer of **RGenEDA** and **scoranet**, to aid in the analysis of genomics data.
+- Experienced in **bulk RNA-seq**, **single-cell (RNA/ATAC)**, **metagenomics**, and **Snakemake pipeline development**.  
 - Passionate about **reproducible pipelines and tools**, **data visualization**, and **genomics data**.
 - On a side-quest to learn **Rust**!
-
----
 
 #### ⚙️ Tool Development & Pipelines
 

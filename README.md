@@ -3,10 +3,17 @@
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi,+I'm+Mike+Martinez+👋;Bioinformatics+happens+here.+🧬&font=K2D&size=44&duration=2000&pause=800&width=850&height=120" />
 </p>
 
-### [➡️ Click here to visit my Website / Blog](https://mikemartinez99.github.io/)
-
-[![email](https://img.shields.io/badge/email-mike.j.martinez99%40gmail.com-%23a6bddb)](mike.j.martinez99@gmail.com)
+[![email](https://img.shields.io/badge/email-mike.j.martinez99%40gmail.com-%23a6bddb)](mailto:mike.j.martinez99@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Michael%20Martinez-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/michael-martinez99/)
+
+### [⬇️ Click here to visit my Website / Blog](https://mikemartinez99.github.io/)
+
+<p align="left">
+  <a href="https://mikemartinez99.github.io/">
+    <img src="profile/compute-and-conquer-logo.svg" alt="Compute and Conquer" width="260"/>
+  </a>
+</p>
+
 
 ### 🧬 About Me
 

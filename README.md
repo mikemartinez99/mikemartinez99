@@ -12,7 +12,7 @@
 
 - Research scientist at the **Dartmouth Genomic Data Science Core**, supporting biomedical researchers across Dartmouth and beyond.  
 - Currently developing an R package, **scoranet**, for single cell cluster-specific ORA networks
-- Experienced in **bulk RNA-seq**, **single-cell (RNA/ATAC)**, **metagenomics**, and **Snakemake pipeline development** and **R package development**.  
+- Experienced in **bulk RNA-seq**, **single-cell (RNA/ATAC)**, **metagenomics**, **Snakemake pipeline development**, and **R package development**.  
 - Passionate about **reproducible pipelines and tools**, **data visualization**, and **genomics data**.
 - On a side-quest to learn **Rust**!
 

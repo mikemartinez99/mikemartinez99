@@ -27,9 +27,16 @@
 | [**miRNA and IsomiR Pipeline**](https://github.com/Dartmouth-Data-Analytics-Core/GDSC-miRNAseq-analysis-pipeline) | Snakemake workflow for miRNA and isomiR analysis |
 | [**Clover-Seq**](https://github.com/Dartmouth-Data-Analytics-Core/GDSC-clover-Seq/tree/main) | Snakemake workflow for tRNA and small RNA NGS analysis |
 | [**MGX Pipeline**](https://github.com/Dartmouth-Data-Analytics-Core/GDSC-Biobakery-MGX-Pipeline) | Snakemake workflow for metagenomic preprocessing and analysis |
-| [**hissTop**](https://github.com/mikemartinez99/hissTop) | Vibe-coded htop-like live console viewer for Snakemake DAGs on slurm HPCs |
 
 ---
+
+#### Vibe Coded Projects
+
+| Project | Description |
+|----------|-------------|
+| [**hissTop**](https://github.com/mikemartinez99/hissTop) | Vibe-coded htop-like live console viewer for Snakemake DAGs on slurm HPCs |
+| [**queueTop**](https://github.com/mikemartinez99/queueTop) | Vibe-coded hoop-like live console viewer for Slurm jobs on HPC in Rust |
+
 
 #### 💻 Tech Stack
 

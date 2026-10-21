@@ -30,12 +30,12 @@
 
 ---
 
-#### Vibe Coded Projects
+#### 😎 Vibe Coded Projects
 
 | Project | Description |
 |----------|-------------|
-| [**hissTop**](https://github.com/mikemartinez99/hissTop) | Vibe-coded htop-like live console viewer for Snakemake DAGs on slurm HPCs |
-| [**queueTop**](https://github.com/mikemartinez99/queueTop) | Vibe-coded hoop-like live console viewer for Slurm jobs on HPC in Rust |
+| <img src="profile/hisstop_logo.png" alt="" height="28"/>[**hissTop**](https://github.com/mikemartinez99/hissTop) | Vibe-coded htop-like live console viewer for Snakemake DAGs in Rust |
+| <img src="profile/logo.png" alt="" height="28"/>[**queueTop**](https://github.com/mikemartinez99/queueTop) | Vibe-coded htop-like live console viewer for Slurm jobs on HPC in Rust |
 
 
 #### 💻 Tech Stack

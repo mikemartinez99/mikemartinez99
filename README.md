@@ -1,6 +1,7 @@
-<!-- Typing SVG -->
+<!-- Typing SVG + koi -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi,+I'm+Mike+Martinez+👋;Bioinformatics+happens+here.+🧬&font=K2D&size=44&duration=2000&pause=800&width=850&height=120" />
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi,+I'm+Mike+Martinez+👋;Bioinformatics+happens+here.+🧬&font=K2D&size=36&duration=2000&pause=800&width=620&height=120" align="middle" />
+  <img src="koi/koi.gif" width="180" align="middle" alt="My koi" />
 </p>
 
 [![email](https://img.shields.io/badge/email-mike.j.martinez99%40gmail.com-%23a6bddb)](mailto:mike.j.martinez99@gmail.com)
@@ -64,8 +65,6 @@
 
 [![GitHub Stats](https://github-stats-extended.vercel.app/api?username=mikemartinez99&custom_title=Mike%27s%20GitHub%20Stats&show_icons=true&include_all_commits=true&theme=react)](https://github-stats-extended.vercel.app/api?username=mikemartinez99&custom_title=Mike%27s%20GitHub%20Stats&show_icons=true&include_all_commits=true&theme=react)
 
-
-<img src="koi/koi.gif" width="256" alt="My koi" />
 
 ![](https://komarev.com/ghpvc/?username=mikemartinez99)
 

@@ -34,8 +34,9 @@
 
 | Project | Description |
 |----------|-------------|
-| <img src="profile/logo.png" alt="" height="28"/>[**queueTop**](https://github.com/mikemartinez99/queueTop) | Vibe-coded htop-like live console viewer for Slurm jobs on HPC in Rust |
 | <img src="profile/slitherflow_hex.png" alt="" height="28"/>[**slitherFlow**](https://github.com/mikemartinez99/slitherFlow) | Vibe-coded CLI tool for nf-core-style subway diagrams for Snakemake pipelines |
+| <img src="profile/logo.png" alt="" height="28"/>[**queueTop**](https://github.com/mikemartinez99/queueTop) | Vibe-coded htop-like live console viewer for Slurm jobs on HPC in Rust |
+
 
 
 #### 💻 Tech Stack
